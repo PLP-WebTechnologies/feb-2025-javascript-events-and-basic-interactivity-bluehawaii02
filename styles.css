@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+#message {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+#message.error {
+  color: red;
+}
+
+#message.success {
+  color: green;
+}
